@@ -1,0 +1,21 @@
+{
+    "relationship_start_date": "2018-05-22",
+    "long_distance_date": "2019-06-15",
+    "time_together": [
+      {"start_date": "2020-05-15", "end_date": "2020-05-20", "location": "Charlotte"},
+      {"start_date": "2022-05-15", "end_date": "2022-05-20", "location": "Charlotte"},
+      {"start_date": "2023-05-15", "end_date": "2023-05-20", "location": "Charlotte"}
+
+    ],
+    "future_plans": [
+      {"start_date": "2024-05-15", "end_date": "2024-05-20", "location": "Denver"}
+    ],
+    "gifts_and_letters": [
+      {"date_received": "2022-07-15", "description": "Gift of flowers", "for": "Joe"}
+    ],
+    "custom_alerts": [
+      {"date": "2024-05-25", "description": "Party Time"},
+      {"date": "2024-08-05", "description": "Birthday for Joe"}
+    ]
+  }
+  
