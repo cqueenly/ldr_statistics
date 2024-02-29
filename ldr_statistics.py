@@ -173,6 +173,7 @@ def calculate_relationship_stats(time_together_df, long_distance_date, current_d
     }
 stats = calculate_relationship_stats(time_together_df, long_distance_date, current_date, gifts_and_letters, custom_alerts)
 
+# From here on our we're just defining the PDF creation.
 
 # Define a love-themed color scheme
 background_color = colors.HexColor("#ffccf2")  # Light pink
